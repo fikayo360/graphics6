@@ -91,7 +91,7 @@ export const Hero = () => {
               
 
             <div id='heroWrap'>
-                <h1 id='heroWraph1'>My name is Jaden and i am a <span className='txtG'>graphics designer</span> </h1>
+                <h1 id='heroWraph1'>My name is Aya and i am a <span className='txtG'>graphics designer</span> </h1>
                 <h1 id='heroWraph2'>transforming your product ideas into clean and functional designs  </h1>
                 <div id='hBtns'>
                     <button><a href='#services'>my skills</a></button>
