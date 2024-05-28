@@ -54,7 +54,7 @@ export const Hero = () => {
                      <div className='hB'>
                         <img src='./grph.png'/>
                         <h1 id='nLeft' className='txtG'>
-                            Jaden
+                            Aya
                         </h1>
                     </div>
                         <ul>
@@ -72,7 +72,7 @@ export const Hero = () => {
                       <div id='mobileNav'>
                       <div id='mbWrap' ref={ref}>
                           <div id='mbWrapH'>
-                              <h1>J<span className='txtG'>aden</span></h1>
+                              <h1>A<span className='txtG'>ya</span></h1>
                               <img  src='./close.png' onClick={toggleNav}/>
                            </div>
                            <div id='mbWrapB'>
