@@ -54,7 +54,7 @@ export const Hero = () => {
                      <div className='hB'>
                         <img src='./grph.png'/>
                         <h1 id='nLeft' className='txtG'>
-                            Aya
+                            jishnu
                         </h1>
                     </div>
                         <ul>
@@ -72,7 +72,7 @@ export const Hero = () => {
                       <div id='mobileNav'>
                       <div id='mbWrap' ref={ref}>
                           <div id='mbWrapH'>
-                              <h1>A<span className='txtG'>ya</span></h1>
+                              <h1>j<span className='txtG'>ishnu</span></h1>
                               <img  src='./close.png' onClick={toggleNav}/>
                            </div>
                            <div id='mbWrapB'>
@@ -91,7 +91,7 @@ export const Hero = () => {
               
 
             <div id='heroWrap'>
-                <h1 id='heroWraph1'>My name is Aya and i am a <span className='txtG'>graphics designer</span> </h1>
+                <h1 id='heroWraph1'>My name is jishnu and i am a <span className='txtG'>graphics designer</span> </h1>
                 <h1 id='heroWraph2'>transforming your product ideas into clean and functional designs  </h1>
                 <div id='hBtns'>
                     <button><a href='#services'>my skills</a></button>
