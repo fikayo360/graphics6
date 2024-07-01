@@ -5,10 +5,14 @@ import './Faq.css'
 export const Faq = () => {
     return (
         <div id="faq">
+            <div id="faqB">
+                <h1>FAQS ?</h1>
+            </div>
+            
             <div id="faqWrap">
-            <h2 id='faqH'>Faqs</h2>
+            <h2 id='faqH'>still got questions </h2>
             <div id='faqContainer'>
-                <Faqs h='Who are the photographers?'
+                <Faqs h='Who is Zoya?'
                  p='Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                  Tenetur natus ipsam nisi quo magnam facere, perspiciatis in hic ea accusamus libero
                   totam provident tempore nihil vitae non laudantium atque! Iure.'
@@ -26,7 +30,7 @@ export const Faq = () => {
                   totam provident tempore nihil vitae non laudantium atque! Iure.'
                  />
 
-                <Faqs h='What if I dont like the work?'
+                <Faqs h='What if I dont like the photos?'
                  p='Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                  Tenetur natus ipsam nisi quo magnam facere, perspiciatis in hic ea accusamus libero
                   totam provident tempore nihil vitae non laudantium atque! Iure.'
