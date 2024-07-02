@@ -21,7 +21,7 @@ export const Services = () => {
                     <span>groom shots</span>
                 </div>
                 <div className='service'>
-                    <img src='https://www.weddingforward.com/wp-content/uploads/2020/01/wedding-poses-featured-image.jpg'/>
+                    <img src='https://hips.hearstapps.com/hmg-prod/images/fairy-and-j-1579625040.jpeg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*'/>
                     <span>wedding shots</span>
                 </div>
                 <div className='service'>
