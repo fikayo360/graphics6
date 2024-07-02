@@ -9,7 +9,7 @@ export const Services = () => {
             <div id='serviceM'>
                 <div id='servicesWrap'>
                 <div className='service'>
-                    <img src='https://cdn0.hitched.co.uk/article/3069/3_2/1280/jpg/129603-engagement-photo-ideas-can-i-have-this-dance.jpeg' />
+                    <img src='https://www.myweddingmyday.com/wp-content/uploads/2023/02/new-romantic-couple-wedding-pose.jpg' />
                     <span>engagement shots</span>
                 </div>
                 <div className='service'>
@@ -21,7 +21,7 @@ export const Services = () => {
                     <span>groom shots</span>
                 </div>
                 <div className='service'>
-                    <img src='https://cdn0.hitched.co.uk/article/2271/3_2/960/png/121722-jose-hero-image.jpeg'/>
+                    <img src='https://www.weddingforward.com/wp-content/uploads/2020/01/wedding-poses-featured-image.jpg'/>
                     <span>wedding shots</span>
                 </div>
                 <div className='service'>
